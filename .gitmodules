@@ -1,0 +1,3 @@
+[submodule "lab112-GitHub-Actions-Checkout-Lab"]
+	path = lab112-GitHub-Actions-Checkout-Lab
+	url = git@github.com:Arif911659/lab112-GitHub-Actions-Checkout-Lab.git
