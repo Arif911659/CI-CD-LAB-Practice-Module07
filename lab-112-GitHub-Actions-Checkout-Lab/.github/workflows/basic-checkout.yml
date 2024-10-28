@@ -9,7 +9,7 @@ on:
 # Define jobs and their steps
 jobs:
   basic-checkout:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     steps:
       # Step 1: Checkout the repository
       - name: Checkout repository
